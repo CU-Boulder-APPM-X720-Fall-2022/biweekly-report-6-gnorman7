@@ -1,3 +1,3 @@
-# Title
+# README
 
-In this [notebook](google.com), I look at some methods to generate samples using both traditional methods and variational autoencoders.
+In this [notebook](./compression_and_generation.ipynb), I look at a traditional, linear method to compress data and generate new example data.
